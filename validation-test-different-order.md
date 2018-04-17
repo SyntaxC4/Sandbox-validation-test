@@ -1,4 +1,18 @@
+---
+title: How to write tabbed content
+description: 
+author: syntaxc4
+ms.author: cfowler
+manager: jhubbard
+ms.date: 01/29/2018
+ms.topic: contributor-guide
+ms.prod: n.a.
+ms.service: n.a.
 
+audience: internal
+---
+
+# Conceptual Tabs Test
 
 # [Linux](#tab/linux)
 
